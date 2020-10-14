@@ -10,5 +10,7 @@ public class newhello {
 
         //i added one more how does it look like
 
+        System.out.println("hello one more time");
+
     }
 }
